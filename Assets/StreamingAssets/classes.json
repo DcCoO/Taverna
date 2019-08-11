@@ -1,0 +1,170 @@
+{
+	"warrior": {
+		"races": {
+			"human" : 35,
+			"white orc": 35,
+			"dwarf": 15,
+			"dragonborn": 15
+		},
+		"chance": 9
+	},
+	"hunter": {
+		"races": {
+			"human" : 35,
+			"elf": 40,
+			"white orc": 15,
+			"dragonborn": 10
+		},
+		"chance": 9
+	},
+	"knight": {
+		"races": {
+			"human" : 60,
+			"dwarf": 20,
+			"white orc": 20
+		},
+		"chance": 4
+	},
+	"thief": {
+		"races": {
+			"human" : 35,
+			"elf" : 35,
+			"white orc" : 15,
+			"metamorph" : 15
+			
+		},
+		"chance": 9
+	},		
+	"assassin": {
+		"races": {
+			"human" : 35,
+			"elf" : 20,
+			"white orc" : 10,
+			"metamorph" : 35			
+		},
+		"chance": 5
+	},
+	"engineer": {
+		"races": { 
+			"human" : 30,
+			"dwarf" : 60,
+			"white orc" : 10		
+		},
+		"chance": 4
+	},
+	"diplomat": {
+		"races": {
+			"human" : 40,
+			"elf" : 40,
+			"dragonborn": 20
+		},
+		"chance": 3
+	},
+	"spy":{
+		"races": {
+			"human" : 15,
+			"elf" : 40,
+			"metamorph" : 40,
+			"fairy" : 5 
+		},
+		"chance": 7
+	},
+	"tracker":{
+		"races": {
+			"human" : 10,
+			"elf" : 40,
+			"dwarf" : 40,
+			"white orc" : 10 
+		},
+		"chance": 7
+	},
+	"priest":{
+		"races": {
+			"human" : 45,
+			"elf" : 40,
+			"fairy" : 15
+		},
+		"chance": 5
+	},
+	"sailor":{
+		"races": {
+			"human" : 60,
+			"white orc" : 40
+		},
+		"chance": 3
+	},
+	"merchant":{
+		"races": {
+			"human" : 25,
+			"elf" : 25,
+			"dwarf" : 25,
+			"white orc" : 25
+		},
+		"chance": 8
+	},
+	"wizard":{
+		"races": {
+			"human" : 40,
+			"elf" : 40,	
+			"fairy" : 5,
+			"dragonborn" : 15
+		},
+		"chance": 3
+	},	
+	"troubadour":{
+		"races": {
+			"human" : 30,
+			"dwarf" : 30,
+			"white orc" : 30,
+			"fairy" : 10
+		},
+		"chance": 6
+	},	
+	"animal tamer":{
+		"races": {
+			"elf" : 35,
+			"white orc" : 35,
+			"fairy" : 5,
+			"metamorph" : 20
+		},
+		"chance": 5
+	},	
+	"warlock":{
+		"races": {
+			"elf" : 30,
+			"white orc" : 65,
+			"fairy" : 5
+		},
+		"chance": 3
+	},	
+	"druid":{
+		"races": {
+			"elf" : 50,			
+			"fairy" : 5,
+			"metamorph" : 45 
+		},
+		"chance": 3
+	},
+	"shieldsman":{
+		"races": {
+			"human" : 30,
+			"white orc" : 30,
+			"dwarf" : 30,
+			"dragonborn" : 10
+		},
+		"chance": 9
+	},	
+	"rabbi":{
+		"races": {
+			"human" : 100			
+		},
+		"chance": 4
+	},
+	"legendary":{
+		"chance": 1
+	}
+}
+	
+	
+	
+	
