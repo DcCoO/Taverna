@@ -1,7 +1,9 @@
-{
+﻿{
 	"items":[
 	
-	{"key": "welcome_letter", "value": "Olá, nobre cidadão. Envio esta mensagem em nome de sua majestade, o Grande Rei, concedendo-lhe, através de seu pedido, o estabelecimento para criar uma Taverna em nossa capital. Os plebeus agora ficarão mais calmos com as bebidas e festas. \n\nAlerto-lhe do acordo que precisa cumprir para compensar a nobre generosidade de sua majestade. Pedidos de missões de interesse do reino serão enviados para seu estabelecimento e seu dever é atribuir essas missões a heróis e aventureiros dispostos a cumpri-las. Cada missão concluída manterá nosso império firme e poderoso e te dará recompensas.\n\nSe concorda com todos os termos, por favor assine seu nome para registrarmos em nossos documentos.\n\nAss: __________"}
+	{"key": "welcome_letter", "value": "	Olá, nobre cidadão. Envio esta mensagem em nome de sua majestade, o Grande Rei, concedendo-lhe, através de seu pedido, o estabelecimento para criar uma Taverna em nossa capital. Os plebeus agora ficarão mais calmos com as bebidas e festas.\n\nAlerto-lhe do acordo que precisa cumprir para compensar a nobre generosidade de sua majestade. Pedidos de missões de interesse do reino serão enviados para seu estabelecimento e seu dever é atribuir essas missões a heróis e aventureiros dispostos a cumpri-las. Cada missão concluída manterá nosso império firme e poderoso e te dará recompensas.
+
+\n\nSe concorda com todos os termos, por favor assine seu nome para registrarmos em nossos documentos.\n\nAss: ______________________"}
 	
 	]
 }
